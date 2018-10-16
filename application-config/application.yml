@@ -1,7 +1,7 @@
 logging:
     level:
         ROOT: INFO
-        com.slalom: INFO
+        com.slalom: DEBUG
         io.github.jhipster: INFO
 
 eureka:
