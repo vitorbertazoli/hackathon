@@ -9,7 +9,7 @@ eureka:
         prefer-ip-address: true
     client:
         service-url:
-            defaultZone: http://admin:admin@jhipster-registry.blockchain.local:8761/eureka/
+            defaultZone: http://admin:admin@registry.blockchain.local:8761/eureka/
 
 spring:
     devtools:
